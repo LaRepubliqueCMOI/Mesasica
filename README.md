@@ -1,1 +1,5 @@
 # Mesasica
+
+La Mesasica es un soporto que permite de cambiar tu mesa en un estudio de casa. Básicamente es un soporto que permite la disposición de varios elementos de un estudio de informática musical. El diseño es inspirado de mi experiencia personal. Demasiado veces, estoy enojado de tener un espacio de trabajo tan mal ordenada, haciendo una sesión de producción musical. De hecho, me faltaba un soporto de este tipo, para elementos pequeños, que puede mantenerse de manera ergonómica en cualquier mesa.
+Entonces, es un proyecto que se dirige a músicas y músicos que practican la música con instrumentos electrónicos, informática musical o que graban y/o trabajan sus producciones musicales desde sus casas.  
+Este proyecto tiene alcances. Es solo un mueble básico y no trata requerimientos electrónicos. Sin embargo, este proyecto se puede mejorar gracias a las reflexiones posibles para incorporar elementos existentes como la incorporación de un pie de micrófono o un bloque eléctrico, de alimentación o conexiones eléctricas por ejemplos. 
